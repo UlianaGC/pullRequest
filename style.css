@@ -1,6 +1,7 @@
 body{
     color: aquamarine;
     background-color: aliceblue;
+    width: 100%;
 }
 button{
     border-radius: 5px;
