@@ -1,3 +1,6 @@
 body{
     color: aquamarine;
 }
+button{
+    border-radius: 5px;
+}
