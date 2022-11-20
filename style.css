@@ -2,6 +2,7 @@ body{
     color: aquamarine;
     background-color: aliceblue;
     width: 100%;
+    height: 100%;
 }
 button{
     border-radius: 5px;
